@@ -1,6 +1,6 @@
 ---
 layout: post
-New Content Coming Soon!
+title: New Content Coming Soon!
 ---
 
 Currently in configuration mode.
